@@ -39,3 +39,41 @@ Once you learn about Agentforce, you can help others by:
 ### In Simple Words
 
 **An Agentblazer is a person who learns AI, uses Agentforce to automate work, and helps others use AI effectively.**
+
+Here’s the **AI unit simplified in easy language**, focusing on what you need to remember for Trailhead:
+
+### 🤖 What is Artificial Intelligence (AI)?
+
+AI means **computers can perform tasks that normally require human intelligence**, such as understanding language, making predictions, identifying things, and solving problems. 
+
+### 🧠 Main Types of AI
+
+1. **Language Processing (NLP)**
+   AI understands and works with human language.
+   **Examples:** ChatGPT, translation, summarizing documents, writing emails or code. 
+
+2. **Numeric Prediction**
+   AI predicts numbers or the likelihood of something happening.
+   **Examples:** Predicting sales, weather, demand, or airline ticket prices. 
+
+3. **Classification**
+   AI puts things into categories.
+   **Examples:** Identifying phishing emails, fraudulent transactions, or whether a comment is toxic. 
+
+4. **Robotic Navigation**
+   AI helps machines move and react to changing environments.
+   **Examples:** Self-driving cars, robots, and supply-chain optimization. 
+
+### 🔗 AI Models & Neural Networks
+
+* **AI models** learn patterns from large amounts of data and use those patterns to make decisions or predictions.
+* **Neural networks** help AI understand relationships between data and outcomes. 
+
+### ⭐ Remember for the Quiz
+
+**Q1:** What helps computers learn what matters to humans when achieving a goal?
+✅ **Answer: C — Neural networks** 
+
+**Q2:** What type of AI determines the optimal price of an airline ticket?
+✅ **Answer: A — Numeric prediction** 
+
